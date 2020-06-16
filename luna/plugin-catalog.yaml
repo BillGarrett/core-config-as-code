@@ -1,1 +1,11 @@
-
+type: "plugin-catalog"
+version: "1"
+name: "must-have-catalog"
+displayName: "Must Have Master Catalog"
+configurations:
+- description: "Important plugins"
+  includePlugins:
+    beer:
+      url: "http://jenkins-updates.cloudbees.com/download/plugins/beer/1.2/beer.hpi"
+    chucknorris:
+      url: "http://jenkins-updates.cloudbees.com/download/plugins/chucknorris/1.1/chucknorris.hpi"
