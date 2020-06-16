@@ -32,7 +32,7 @@ jenkins:
   scmCheckoutRetryCount: 0
   securityRealm: "operationsCenter"
   slaveAgentPort: 50000
-  systemMessage: "Team Helios - v1"
+  systemMessage: "Team Luna - v1"
   updateCenter:
     sites:
     - id: "core-mm-offline"
