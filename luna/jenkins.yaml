@@ -27,7 +27,7 @@ jenkins:
   scmCheckoutRetryCount: 0
   securityRealm: "operationsCenter"
   slaveAgentPort: 50000
-  systemMessage: "Team Luna - v1"
+  systemMessage: "New Year, New Version (Luna v2)"
   updateCenter:
     sites:
     - id: "virtual-cap-core-mm"
