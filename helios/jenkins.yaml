@@ -32,7 +32,7 @@ jenkins:
   scmCheckoutRetryCount: 0
   securityRealm: "operationsCenter"
   slaveAgentPort: 50000
-  systemMessage: "Team Helios - v3"
+  systemMessage: "New Year, New Version - v4"
   updateCenter:
     sites:
     - id: "core-mm-offline"
